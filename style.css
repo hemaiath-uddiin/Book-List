@@ -1,0 +1,26 @@
+*{  box-sizing: border-box;
+    margin:0px ; 
+    padding:0px;
+  
+
+
+} 
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body{ 
+    
+    background-color: #f6f5f5;
+}
+
+html{ 
+    scroll-behavior: smooth;
+} 
+h1,h2,h3,h4,h5,h6{ 
+    font-family: 'Patrick Hand', cursive;
+}   
+   
+input#btn {
+    border: none;
+    outline: none;
+    padding: 1rem;
+}
